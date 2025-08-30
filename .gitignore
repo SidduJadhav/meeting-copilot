@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# Uploads (optional)
+uploads/
+
+# Environment files
+.env
+# Add these to your .gitignore:
+.env.production
+alembic.ini
+alembic/
+meetingcopilot.db
+*.db
+*.sqlite
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
